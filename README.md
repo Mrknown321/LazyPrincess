@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/3b46329e607912a0cddab.png" alt="Lazy Princess Logo">
+<image scr="C:\Users\Lenovo\OneDrive\Pictures\medium-gojo-anime-feiticeiro-jujutsu-kaisen-satoru-gojo-matte-original-imag8c3f8pfkjyyc.webp">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> Saturo Gojo </b>
 </h1>
 
 ## ⚡️Features

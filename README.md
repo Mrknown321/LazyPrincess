@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://rukminim2.flixcart.com/image/850/1000/kvfkivk0/poster/e/e/b/medium-gojo-anime-feiticeiro-jujutsu-kaisen-satoru-gojo-matte-original-imag8c3f8pfkjyyc.jpeg?q=20>
+<img src=https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/06/gojo2.jpg>
 </p>
 <h1 align="center">
   <b> Saturo Gojo </b>

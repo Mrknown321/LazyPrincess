@@ -1,5 +1,5 @@
 <p align="center">
-<img scr="C:\Users\Lenovo\OneDrive\Pictures\medium-gojo-anime-feiticeiro-jujutsu-kaisen-satoru-gojo-matte-original-imag8c3f8pfkjyyc.webp">
+<img src="https://telegra.ph/file/3b46329e607912a0cddab.png" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
   <b> Saturo Gojo </b>

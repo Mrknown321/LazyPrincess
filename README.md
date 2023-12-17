@@ -1,5 +1,5 @@
 <p align="center">
-<img src="C:\Users\Lenovo\OneDrive\Pictures\medium-gojo-anime-feiticeiro-jujutsu-kaisen-satoru-gojo-matte-original-imag8c3f8pfkjyyc.webp">
+<img src=https://rukminim2.flixcart.com/image/850/1000/kvfkivk0/poster/e/e/b/medium-gojo-anime-feiticeiro-jujutsu-kaisen-satoru-gojo-matte-original-imag8c3f8pfkjyyc.jpeg?q=20>
 </p>
 <h1 align="center">
   <b> Saturo Gojo </b>
